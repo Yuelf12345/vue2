@@ -6461,7 +6461,7 @@ yorkie@^2.0.0:
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
 
-yuedada_test@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/yuedada_test/-/yuedada_test-1.0.1.tgz"
-  integrity sha512-NWicSpdhZcHbu8ahEFKDLng1wP7wuDPTKJvRhEt10irn9swleWgeESeijTLlJemyxSQWLxKRmYZwW2mf4OsrUA==
+yuedada_test@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/yuedada_test/-/yuedada_test-1.0.2.tgz"
+  integrity sha512-ygpEcc1Wrz+QUhQml/QrBEvtH6fJTjKK+ZO7MwpXpRNxThP3ncQhcl1cvlIqUb9LkBALQZESWJ0BjI2ZGIh1FQ==
