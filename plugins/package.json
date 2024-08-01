@@ -1,0 +1,14 @@
+{
+  "name": "yuedada_test",
+  "version": "1.0.2",
+  "description": "测试插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yue"
+  ],
+  "author": "yuedada",
+  "license": "ISC"
+}

@@ -13,10 +13,14 @@ import router from './router'
 // 引入vuex
 import store from './store/index'
 
+
+import TButton from 'yuedada_test'
+
 Vue.config.productionTip = false
 Vue.use(ElementUI)
+Vue.use(TButton)
 
-new Vue({
+ const app =new Vue({
   store,
   router,
   render: h => h(App),
